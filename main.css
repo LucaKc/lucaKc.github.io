@@ -10,6 +10,17 @@ h1 {
     color: #CC0000;
 }
 
+h2 {
+    color: #4B4B4B;
+    font-size: 34px;
+}
+
+
+h3 {
+    color: #4B4B4B;
+    font-size: 22px;
+}
+
 p {
     max-width: 65%;
     color: #4B4B4B;
