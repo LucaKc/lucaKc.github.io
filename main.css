@@ -1,9 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Francois+One);
+
 html, body {
-    font-family: Helvetica, sans-serif;
+    font-family: "Open Sans", sans-serif;
     width: 100%;
     height: 100%;
     background-image: url("https://www.google.it/search?q=sfondo+matte&espv=2&biw=1280&bih=678&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwil1Yjp5cXNAhUDshQKHcXvALoQ_AUIBigB#tbs=isz:l&tbm=isch&q=matte+white+background&imgrc=eIoA0zdqw92N7M%3A");
     background-color: #FFFFFF;
+}
+
+.title > h1 {
+  font-family: "Francois One";
 }
 
 .container {
@@ -37,6 +43,7 @@ h1 {
     font-size: 48px;
     color: #CC0000;
     text-align: center;
+    font-family:
 }
 
 h2 {
