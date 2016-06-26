@@ -25,6 +25,10 @@ html, body {
     font-size: 18px;
 }
 
+.banner {
+  font-family: Helvetica, sans-serif;
+}
+
 #nav1_id {
   color: black;
 }
