@@ -3,8 +3,21 @@ html, body {
     margin: 50;
     width: 100%;
     height: 100%;
-    background-image: url("http://2.bp.blogspot.com/-vWCNQ8C4pmA/Uh9mg86eHaI/AAAAAAAAE7Y/XsGfvy47he4/s1600/Background-Paper-White6.jpg");
+    background-image: url("https://www.google.it/search?q=sfondo+matte&espv=2&biw=1280&bih=678&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwil1Yjp5cXNAhUDshQKHcXvALoQ_AUIBigB#tbs=isz:l&tbm=isch&q=matte+white+background&imgrc=eIoA0zdqw92N7M%3A");
     background-color: #FFFFFF;
+}
+
+.container {
+  color: blue;
+}
+
+.navbar {
+  text-align: center;
+  color: yellow;
+}
+
+#nav1_id {
+  color: green;
 }
 
 h1 {
