@@ -7,6 +7,10 @@ html, body {
     background-color: #FFFFFF;
 }
 
+.container {
+  color: #4B4B4B;
+}
+
 .navbar {
     color: yellow;
     text-align: center;
