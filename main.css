@@ -8,11 +8,13 @@ html, body {
 h1 {
     font-size: 48px;
     color: #CC0000;
+    text-align: center;
 }
 
 h2 {
     font-size: 34px;
-    color: #4B4B4B;    
+    color: #4B4B4B;
+    text-align: center;
 }
 
 
