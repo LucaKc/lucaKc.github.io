@@ -9,6 +9,10 @@ html, body {
 
 .container {
   color: #4B4B4B;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 75px;
 }
 
 .navbar {
@@ -28,20 +32,10 @@ h1 {
 
 h2 {
     font-size: 34px;
-    color: #4B4B4B;
     text-align: center;
 }
 
 
 h3 {
     font-size: 22px;
-    color: #4B4B4B;
-}
-
-p {
-    color: #4B4B4B;
-}
-
-ul {
-  color: #4B4B4B;
-}
+    }
