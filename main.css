@@ -64,3 +64,13 @@ h3 {
 a {
   color: #4B4B4B;
 }
+
+.barranavigazione > img, ul, li {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+#contatti {
+  float: right;
+}
