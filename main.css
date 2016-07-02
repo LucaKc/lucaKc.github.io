@@ -30,6 +30,8 @@ html, body {
     color: white;
     background-image: url("http://cdn1.bestpsdfreebies.com/wp-content/uploads/2014/10/Polygonal_Textures_2.jpg");
     background-size: cover;
+    line-height: 0px;
+    margin: 50px;
 }
 
 #nav1_id {
@@ -38,9 +40,16 @@ html, body {
 
 h1 {
     font-size: 48px;
+    /* questo è un commento*/
     color: #CC0000;
     text-align: center;
+    /* text-decoration: underline; */
+
 }
+
+/*Questo è
+un commento
+multilinea */
 
 h2 {
     font-size: 34px;
