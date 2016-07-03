@@ -15,6 +15,9 @@ body {
   background-color: white;
 }
 
+.imghead {
+  width: auto;
+}
 
 .navmenu {
   text-align: center;
