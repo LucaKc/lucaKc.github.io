@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Francois+One);
+
+body {
+    font-family: "Open Sans", sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.section1 {
+  margin-top: 150px;
+
+}
+
+.navbar2 {
+  background-color: white;
+}
+
+
+.navmenu {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: black;
+    background-color: white;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+.img {
+    vertical-align: middle;
+    align-items: center;
+}
+
+}
